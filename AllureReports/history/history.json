@@ -1,0 +1,1 @@
+{"2f5b87023a32fb2311c262ea4ecc329b":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"22483a2cda23cdc6","reportUrl":"http://localhost:8080/job/AT_Project_18th%20April%202026%20Revision/2/display/redirect/allure/#testresult/22483a2cda23cdc6","status":"passed","time":{"start":1776525861033,"stop":1776525946677,"duration":85644}}]}}
