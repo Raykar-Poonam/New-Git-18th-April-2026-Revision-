@@ -1,0 +1,45 @@
+ 2026-04-18 21:32:36,099 : INFO : Test_ATLogin : test_login_TC01 : 26 : Test Case test_login_TC01 Started
+ 2026-04-18 21:32:36,099 : INFO : Test_ATLogin : test_login_TC01 : 27 : Opening Browser and Navigating to AT Login Page
+ 2026-04-18 21:32:40,969 : INFO : Test_ATLogin : test_login_TC01 : 37 : Entering Username for row = 2
+ 2026-04-18 21:32:41,510 : INFO : Test_ATLogin : test_login_TC01 : 39 : Entering Password for row = 2
+ 2026-04-18 21:32:41,631 : INFO : Test_ATLogin : test_login_TC01 : 41 : Clicking Login Button for row = 2
+ 2026-04-18 21:32:43,138 : INFO : Test_ATLogin : test_login_TC01 : 43 : Validating Login Status for row = 2
+ 2026-04-18 21:32:43,198 : INFO : Test_ATLogin : test_login_TC01 : 51 : Updating TestCase_Status_List as Pass for row = 2
+ 2026-04-18 21:32:43,236 : INFO : Test_ATLogin : test_login_TC01 : 54 : Taking Pass Screenshot for row = 2
+ 2026-04-18 21:32:43,367 : INFO : Test_ATLogin : test_login_TC01 : 57 : Test Case test_login_TC01 PASSED for row = 2
+ 2026-04-18 21:32:43,367 : INFO : Test_ATLogin : test_login_TC01 : 58 : Taking Allure Pass Screenshot for row = 2
+ 2026-04-18 21:32:43,570 : INFO : Test_ATLogin : test_login_TC01 : 86 : Test Case test_login_TC01 Completed for row = 2
+ 2026-04-18 21:32:45,871 : INFO : Test_ATLogin : test_login_TC01 : 26 : Test Case test_login_TC01 Started
+ 2026-04-18 21:32:45,871 : INFO : Test_ATLogin : test_login_TC01 : 27 : Opening Browser and Navigating to AT Login Page
+ 2026-04-18 21:32:52,422 : INFO : Test_ATLogin : test_login_TC01 : 37 : Entering Username for row = 3
+ 2026-04-18 21:32:52,629 : INFO : Test_ATLogin : test_login_TC01 : 39 : Entering Password for row = 3
+ 2026-04-18 21:32:52,840 : INFO : Test_ATLogin : test_login_TC01 : 41 : Clicking Login Button for row = 3
+ 2026-04-18 21:32:57,454 : INFO : Test_ATLogin : test_login_TC01 : 43 : Validating Login Status for row = 3
+ 2026-04-18 21:33:07,531 : INFO : Test_ATLogin : test_login_TC01 : 64 : Updating TestCase_Status_List as Pass for row = 3
+ 2026-04-18 21:33:07,569 : INFO : Test_ATLogin : test_login_TC01 : 67 : Taking Fail Screenshot for row = 3
+ 2026-04-18 21:33:07,613 : INFO : Test_ATLogin : test_login_TC01 : 70 : Test Case test_login_TC01 PASSED for row = 3
+ 2026-04-18 21:33:07,613 : INFO : Test_ATLogin : test_login_TC01 : 71 : Taking Allure Fail Screenshot for row = 3
+ 2026-04-18 21:33:07,660 : INFO : Test_ATLogin : test_login_TC01 : 86 : Test Case test_login_TC01 Completed for row = 3
+ 2026-04-18 21:33:09,917 : INFO : Test_ATLogin : test_login_TC01 : 26 : Test Case test_login_TC01 Started
+ 2026-04-18 21:33:09,917 : INFO : Test_ATLogin : test_login_TC01 : 27 : Opening Browser and Navigating to AT Login Page
+ 2026-04-18 21:33:17,359 : INFO : Test_ATLogin : test_login_TC01 : 37 : Entering Username for row = 4
+ 2026-04-18 21:33:17,528 : INFO : Test_ATLogin : test_login_TC01 : 39 : Entering Password for row = 4
+ 2026-04-18 21:33:17,633 : INFO : Test_ATLogin : test_login_TC01 : 41 : Clicking Login Button for row = 4
+ 2026-04-18 21:33:18,846 : INFO : Test_ATLogin : test_login_TC01 : 43 : Validating Login Status for row = 4
+ 2026-04-18 21:33:29,228 : INFO : Test_ATLogin : test_login_TC01 : 64 : Updating TestCase_Status_List as Pass for row = 4
+ 2026-04-18 21:33:29,256 : INFO : Test_ATLogin : test_login_TC01 : 67 : Taking Fail Screenshot for row = 4
+ 2026-04-18 21:33:29,295 : INFO : Test_ATLogin : test_login_TC01 : 70 : Test Case test_login_TC01 PASSED for row = 4
+ 2026-04-18 21:33:29,296 : INFO : Test_ATLogin : test_login_TC01 : 71 : Taking Allure Fail Screenshot for row = 4
+ 2026-04-18 21:33:29,348 : INFO : Test_ATLogin : test_login_TC01 : 86 : Test Case test_login_TC01 Completed for row = 4
+ 2026-04-18 21:33:31,607 : INFO : Test_ATLogin : test_login_TC01 : 26 : Test Case test_login_TC01 Started
+ 2026-04-18 21:33:31,607 : INFO : Test_ATLogin : test_login_TC01 : 27 : Opening Browser and Navigating to AT Login Page
+ 2026-04-18 21:33:38,843 : INFO : Test_ATLogin : test_login_TC01 : 37 : Entering Username for row = 5
+ 2026-04-18 21:33:38,996 : INFO : Test_ATLogin : test_login_TC01 : 39 : Entering Password for row = 5
+ 2026-04-18 21:33:39,094 : INFO : Test_ATLogin : test_login_TC01 : 41 : Clicking Login Button for row = 5
+ 2026-04-18 21:33:40,249 : INFO : Test_ATLogin : test_login_TC01 : 43 : Validating Login Status for row = 5
+ 2026-04-18 21:33:50,756 : INFO : Test_ATLogin : test_login_TC01 : 64 : Updating TestCase_Status_List as Pass for row = 5
+ 2026-04-18 21:33:50,791 : INFO : Test_ATLogin : test_login_TC01 : 67 : Taking Fail Screenshot for row = 5
+ 2026-04-18 21:33:50,828 : INFO : Test_ATLogin : test_login_TC01 : 70 : Test Case test_login_TC01 PASSED for row = 5
+ 2026-04-18 21:33:50,828 : INFO : Test_ATLogin : test_login_TC01 : 71 : Taking Allure Fail Screenshot for row = 5
+ 2026-04-18 21:33:50,874 : INFO : Test_ATLogin : test_login_TC01 : 86 : Test Case test_login_TC01 Completed for row = 5
+ 2026-04-18 21:33:53,167 : INFO : Test_ATLogin : test_login_TC01 : 90 : Final Result: ['PASS', 'PASS', 'PASS', 'PASS']
